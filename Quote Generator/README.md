@@ -1,8 +1,8 @@
 
 ## Screenshots
 
-![App Screenshot](./screenshot1)
+![App Screenshot](./images/Screenshot1.png)
 
 ## Screenshots
 
-![App Screenshot](./screenshot2)
+![App Screenshot](./images/Screenshot2.png)

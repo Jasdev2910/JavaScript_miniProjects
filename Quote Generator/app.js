@@ -12,7 +12,7 @@ async function getQuote(URL){
     quote.innerHTML = data.content;
     author.innerHTML = data.author;
 }
-
+getQuote(URL);
 btn.addEventListener("click", () => {
     getQuote(URL);
 });
