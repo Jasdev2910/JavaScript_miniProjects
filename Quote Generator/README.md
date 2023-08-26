@@ -1,8 +1,8 @@
 
 ## Screenshots
 
-![App Screenshot](screenshot1)
+![App Screenshot](./screenshot1)
 
 ## Screenshots
 
-![App Screenshot](screenshot2)
+![App Screenshot](./screenshot2)
